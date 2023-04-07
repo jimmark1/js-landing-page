@@ -2,6 +2,7 @@ import React from "react";
 
 import banner from "../Brand/banner.jpg";
 import Courses from "../Components/Courses";
+import AboutUs from "./AboutUs";
 
 import { Container } from "react-bootstrap";
 
@@ -47,6 +48,11 @@ const MainContent = () => {
                          </h1>
                     </div>
                     <Courses />
+               </section>
+               <section id="about-us">
+                    <div>
+                         <AboutUs />
+                    </div>
                </section>
           </div>
      );
