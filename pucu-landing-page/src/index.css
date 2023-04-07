@@ -78,7 +78,7 @@
      margin-bottom: 7rem;
 }
 
-.courses-label {
+.label {
      background-color: #a88c00;
      color: #333;
      padding: 1rem;
@@ -102,4 +102,11 @@
      .container p {
           margin-bottom: auto;
      }
+}
+
+#mission-vision {
+     background-color: #3f6212;
+     color: white;
+     letter-spacing: 1.5px;
+     border-radius: 5px;
 }
