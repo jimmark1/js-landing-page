@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.afc4b417.css",
+    "main.js": "/static/js/main.bc00604a.js",
+    "static/js/787.45859935.chunk.js": "/static/js/787.45859935.chunk.js",
+    "static/media/CE.jpg": "/static/media/CE.0e1a237d1422d5cd75db.jpg",
+    "static/media/Archi.jpg": "/static/media/Archi.98231ee94bd6e699a372.jpg",
+    "static/media/accountancy.jpg": "/static/media/accountancy.063aa8167dc8a0379f8e.jpg",
+    "static/media/TM.jpg": "/static/media/TM.6ff311cdc36d4631e76b.jpg",
+    "static/media/entrep.jpg": "/static/media/entrep.dc551b60f1d49d1c2a88.jpg",
+    "static/media/Cs.jpg": "/static/media/Cs.3c183312a943af63f7dd.jpg",
+    "static/media/abel.jpg": "/static/media/abel.b8a56c1df07a53417c71.jpg",
+    "static/media/banner.jpg": "/static/media/banner.0b86c8c4160cfbfc87a7.jpg",
+    "static/media/Crim.jpg": "/static/media/Crim.f56fe03e1547eb431474.jpg",
+    "static/media/pucu-logo.png": "/static/media/pucu-logo.cce79dc92ed10bd3834e.png",
+    "index.html": "/index.html",
+    "main.afc4b417.css.map": "/static/css/main.afc4b417.css.map",
+    "main.bc00604a.js.map": "/static/js/main.bc00604a.js.map",
+    "787.45859935.chunk.js.map": "/static/js/787.45859935.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afc4b417.css",
+    "static/js/main.bc00604a.js"
+  ]
+}
