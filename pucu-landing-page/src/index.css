@@ -44,7 +44,8 @@
 .navbar-nav .nav-link {
      border-radius: 15px;
      font-weight: 600;
-     color: #a88c00;
+     color: #095a2e;
+     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2); /* Add a subtle text shadow */
 }
 
 .navbar-nav .nav-link:hover {
