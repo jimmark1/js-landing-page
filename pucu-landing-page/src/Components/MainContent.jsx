@@ -41,18 +41,17 @@ const MainContent = () => {
                          </p>
                     </Container>
                </section>
-               <section id="courses">
+               <section className="mb-5 " id="courses">
                     <div className="d-flex justify-content-center">
-                         <h1 className="courses-label mb-5 fw-bolder">
-                              COURSES
-                         </h1>
+                         <h1 className="label mb-5 fw-bolder">Courses</h1>
                     </div>
                     <Courses />
                </section>
                <section id="about-us">
-                    <div>
-                         <AboutUs />
+                    <div className="d-flex justify-content-center">
+                         <h1 className="label mb-5 fw-bolder">About us</h1>
                     </div>
+                    <AboutUs />
                </section>
           </div>
      );
