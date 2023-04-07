@@ -17,7 +17,7 @@ function App() {
                          <MainContent />
                     </div>
                </main>
-               <footer className="row bg-light">
+               <footer className="row mt-5">
                     <div className="col-12">
                          <Footer />
                     </div>
