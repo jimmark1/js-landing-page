@@ -30,9 +30,6 @@ const CNavbar = () => {
                               <Nav.Link className="me-3" href="#courses">
                                    Courses Offered
                               </Nav.Link>
-                              <Nav.Link className="me-3" href="#">
-                                   Contact
-                              </Nav.Link>
                               <Nav.Link href="#about-us">About Us</Nav.Link>
                          </Nav>
                          <Nav>
